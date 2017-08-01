@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--make it True to check license if icon pack is paid-->
+    <bool name="license_check">false</bool>
+
+    <!--Set splash screenBackground color (Default is white) -->
+    <color name="splash_screen_bg_color">#80151515</color>
+
+    <!--Set NavigationBar color (Default is Black)-->
+    <color name="navigationBarBgColor">#30000000</color>
+
+
+    <!--Home - Card 1-->
+    <bool name="card1_visible">true</bool> <!--set false to hide card-->
+
+    <!--Card1 content-->
+    <string name="card1_title">Welcome</string>
+    <string name="card1_desc">Phantom Icons is an open source icon pack, based on Material design guidelines, with support for multiple launchers.\n</string>
+    <string name="card1_button">HighRidas</string>
+    <string name="card1_link">https:plus.google.com/+highridas</string>
+
+    <!--Card1 colors-->
+    <color name="card1_title">#4caf50</color>
+    <color name="card1_desc">#ffffff</color>
+    <color name="card1_button">#4caf50</color>
+    <color name="card1_bg">#151515</color>
+
+
+
+
+    <!--Home - Card 2-->
+        <bool name="card2_visible">true</bool><!--set false to hide card-->
+
+        <!--Card2 Content-->
+        <string name="card2_title">Source</string>
+        <string name="card2_desc">Check out my repository, for sources and other projects.\n</string>
+        <string name="card2_button">GitHub</string>
+        <string name="card2_link">https:github.com/HighRidas</string>
+
+        <!--Card2 colors-->
+        <color name="card2_title">#4caf50</color>
+        <color name="card2_desc">#ffffff</color>
+        <color name="card2_button">#4caf50</color>
+        <color name="card2_bg">#151515</color>
+
+
+
+
+    <!--Home - Card 3-->
+        <bool name="card3_visible">true</bool><!--set false to hide card-->
+
+        <!--Card 3 Content-->
+        <string name="card3_title">Buy me a coffee</string>
+        <string name="card3_desc">Did you like my work? Donate to me and help support future projects.\n</string>
+        <string name="card3_button">Donate</string>
+        <string name="card3_link">https://paypal.me/highridas617</string>
+
+        <!--Card3 colors-->
+        <color name="card3_title">#4caf50</color>
+        <color name="card3_desc">#ffffff</color>
+        <color name="card3_button">#4caf50</color>
+        <color name="card3_bg">#151515</color>
+
+</resources>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ALL ICONS -->
+    <!-- All of your icons listed here -->
+    <string name="icon_pack">All</string>
+    <string-array name="icon_pack" translatable="false">
+        <item>acalculator</item>
+        <item>amazon_app_store</item>
+        <item>adobe_reader</item>
+        <item>angry_birds_2</item>
+        <item>apex</item>
+        <item>apollo</item>
+        <item>asus_sound_recorder</item>
+        <item>audio_fx</item>
+        <item>browser_2</item>
+        <item>busybox</item>
+        <item>calculator_alt</item>
+        <item>camera_3</item>
+        <item>chromium2</item>
+        <item>clean_master</item>
+        <item>clock_2</item>
+        <item>cmfilemanager</item>
+        <item>contacts_2</item>
+        <item>documentsui</item>
+        <item>downloads_2</item>
+        <item>drastic</item>
+        <item>ebay</item>
+        <item>email_2</item>
+        <item>es_filemanager</item>
+        <item>firefox1</item>
+        <item>firefox2</item>
+        <item>flashify</item>
+        <item>focus_gallery</item>
+        <item>gaana</item>
+        <item>gallery</item>
+        <item>gallery_2</item>
+        <item>gba</item>
+        <item>gbc</item>
+        <item>gmail_2</item>
+        <item>gmail_alt</item>
+        <item>google_calendar_alt</item>
+        <item>google_cloud_print_2</item>
+        <item>google_device_policy_2</item>
+        <item>google_docs_2</item>
+        <item>google_drive</item>
+        <item>google_earth_2</item>
+        <item>google_inbox_2</item>
+        <item>google_keep_3</item>
+        <item>google_keyboard</item>
+        <item>google_messenger</item>
+        <item>google_news</item>
+        <item>google_news_and_weather</item>
+        <item>google_now_launcher_2</item>
+        <item>google_play_books_2</item>
+        <item>google_play_movies_2</item>
+        <item>google_play_movies_and_tv_3</item>
+        <item>google_play_music_alt</item>
+        <item>google_play_newsstands_2</item>
+        <item>google_play_store_1</item>
+        <item>google_play_store_3</item>
+        <item>google_plus</item>
+        <item>google_plus_2</item>
+        <item>google_slides_3</item>
+        <item>google_translate_6</item>
+        <item>hr_phantom_logo</item>
+        <item>ingress_2</item>
+        <item>instagram</item>
+        <item>kerneladiutor</item>
+        <item>linkedin</item>
+        <item>logcat</item>
+        <item>magisk</item>
+        <item>material_terminal</item>
+        <item>message_2</item>
+        <item>messenger</item>
+        <item>music</item>
+        <item>music_3</item>
+        <item>music_alt_2</item>
+        <item>myappsharer</item>
+        <item>netflix</item>
+        <item>nexmon</item>
+        <item>omniswitch</item>
+        <item>orbot</item>
+        <item>phone_2</item>
+        <item>playstation</item>
+        <item>rar</item>
+        <item>recorder</item>
+        <item>repost</item>
+        <item>rootexplorer</item>
+        <item>saavn</item>
+        <item>settings</item>
+        <item>substratum</item>
+        <item>syncme</item>
+        <item>terminal</item>
+        <item>toi</item>
+        <item>torque</item>
+        <item>twitter</item>
+        <item>uber</item>
+        <item>uc_browser_3</item>
+        <item>ultimateguitar</item>
+        <item>unipatcher</item>
+        <item>usb_keyboard</item>
+        <item>utorrent</item>
+        <item>videoplayer_2</item>
+        <item>vlc</item>
+        <item>vlc2</item>
+        <item>phone_2</item>
+        <item>wallpaper</item>
+        <item>waze</item>
+        <item>waze2</item>
+        <item>whatsapp_3</item>
+        <item>xda_round_launcher_one</item>
+        <item>xda_launcher</item>
+        <item>xfinity</item>
+        <item>youtube_2</item>
+    </string-array>
+
+    <!-- SYSTEM ICONS -->
+    <!-- System icons listed here -->
+    <string name="system">System</string>
+    <string-array name="system">
+        <item>settings</item>
+    </string-array>
+
+    <!-- GOOGLE APPS ICONS -->
+    <!-- Google Apps icons are listed here -->
+    <string name="google">Google Apps</string>
+    <string-array name="google">
+        <item>gmail_2</item>
+        <item>gmail_alt</item>
+        <item>google_calendar_alt</item>
+        <item>google_cloud_print_2</item>
+        <item>google_device_policy_2</item>
+        <item>google_docs_2</item>
+        <item>google_drive</item>
+        <item>google_earth_2</item>
+        <item>google_inbox_2</item>
+        <item>google_keep_3</item>
+        <item>google_keyboard</item>
+        <item>google_messenger</item>
+        <item>google_news</item>
+        <item>google_news_and_weather</item>
+        <item>google_now_launcher_2</item>
+        <item>google_play_books_2</item>
+        <item>google_play_movies_2</item>
+        <item>google_play_movies_and_tv_3</item>
+        <item>google_play_music_alt</item>
+        <item>google_play_newsstands_2</item>
+        <item>google_play_store_1</item>
+        <item>google_play_store_3</item>
+        <item>google_plus</item>
+        <item>google_plus_2</item>
+        <item>google_slides_3</item>
+        <item>google_translate_6</item></string-array>
+
+    <!-- GAMES ICONS -->
+    <!-- Game icons are listed here -->
+    <string name="games">Games</string>
+    <string-array name="games">
+        <item>angry_birds_2</item>
+    </string-array>
+
+    <!-- DRAWER ICONS -->
+    <!-- Drawer icons are listed here -->
+    <string name="drawer">Drawer</string>
+    <string-array name="drawer">
+    </string-array>
+
+    <!-- LATEST ICONS -->
+    <!-- All of your Latest icons listed here -->
+    <string name="latest">Latest</string>
+    <string-array name="latest">
+    </string-array>
+</resources>

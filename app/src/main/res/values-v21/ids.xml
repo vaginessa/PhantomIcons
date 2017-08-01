@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_theme1" type="id" />
+    <item name="button_theme2" type="id" />
+    <item name="phantom_theme" type="id" />
+    <item name="transparent_theme" type="id" />
+</resources>
